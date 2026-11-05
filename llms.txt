@@ -1,0 +1,21 @@
+# KliWorks
+
+> Cost-engineering spreadsheets for contractors and service trades. Excel and Google Sheets tools that recover overhead per labor hour, price from margin rather than markup, and model job cash flow.
+
+## Key facts
+- An 18% markup earns a 15.3% margin, not 18%. To earn an 18% margin, add a 22.0% markup.
+- Overhead per labor hour = annual overhead / annual billable hours. Example: $85,000 / 3,400 = $25.00 per hour.
+- A $32/hour technician at 34% burden with $36.80/hour overhead and a 20% target margin requires a $99.60 billable rate — 3.11x the wage.
+- Billing $95 instead of $99.60 across 3,750 billable hours costs $17,250 per year.
+- A construction job earning a 19.0% margin can still fall to a $3,800 cash balance in month four, because of retainage and net-30 payment terms.
+
+## Guides
+- [Markup vs margin for contractors](https://kliworks.netlify.app/markup-vs-margin.html): formulas and full conversion tables both ways.
+- [How to calculate overhead per labor hour](https://kliworks.netlify.app/overhead-per-labor-hour.html): the two-number formula and why percentages misprice jobs.
+- [What your flat rate hourly rate should be](https://kliworks.netlify.app/flat-rate-hourly-rate.html): burdened wage, overhead recovery and target margin.
+- [Why profitable construction jobs run out of cash](https://kliworks.netlify.app/construction-cash-flow.html): retainage, draw schedules and a month-by-month model.
+
+## Products
+- Contractor Bid & Job-Cost Calculator — 9 tabs, 443 formulas. https://kliworks.etsy.com
+- Flat-Rate Price Book Builder — 41 services, Good/Better/Best tiers. https://kliworks.etsy.com
+- Construction Cash Flow & Draw Schedule — 12-month cash model. https://kliworks.etsy.com
