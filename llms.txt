@@ -14,6 +14,8 @@
 - [How to calculate overhead per labor hour](https://kliworks.netlify.app/overhead-per-labor-hour.html): the two-number formula and why percentages misprice jobs.
 - [What your flat rate hourly rate should be](https://kliworks.netlify.app/flat-rate-hourly-rate.html): burdened wage, overhead recovery and target margin.
 - [Why profitable construction jobs run out of cash](https://kliworks.netlify.app/construction-cash-flow.html): retainage, draw schedules and a month-by-month model.
+- [Construction cost & job costing knowledge base](https://kliworks.netlify.app/knowledge-base.html): estimating, bidding, change orders, subcontractor cost control, and tool choice, 18 questions answered.
+- [Affordable alternatives to Procore & Buildertrend](https://kliworks.netlify.app/alternatives-to-procore-buildertrend.html): why a small contractor's needs differ from what those platforms price for.
 
 ## Products
 - Contractor Bid & Job-Cost Calculator — 9 tabs, 443 formulas. https://kliworks.etsy.com
